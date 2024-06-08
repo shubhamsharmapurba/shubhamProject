@@ -1,2 +1,0 @@
-# shubhamProject
-My learning projects
